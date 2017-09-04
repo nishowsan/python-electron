@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: pytron
+Version: 1.0
+Summary: Make desktop app with html5 and JS using python and pytron
+Home-page: http://github.com/nishowsan/python-electron
+Author: Adib Mohsin
+Author-email: md.nishow@gmail.com
+License: MIT
+Description: 
+        Electron is a technology developed by https://www.github.com/ . Which you can use 
+        to render html5 and javascript as a desktop app . But it uses node js . I have used 
+        PyQt5 for the shell and it is written with pure python so enjoy . For documentation visit
+        http://github.com/nishowsan/python-electron .
+        
+Platform: UNKNOWN
+Requires: pyqt5
