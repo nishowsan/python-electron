@@ -6,6 +6,7 @@ PyQt5 for the shell and it is written with pure python so enjoy .
 
 # Note
 The code is beta and the idea is new . The project will be continuous . Please report issue . 
+### Because of the name 'pytron' already exists , I have renamed it too pyelectron ..........
 
 # Install
 Installing pytron is very easy . 
@@ -15,13 +16,13 @@ Open your cmd as administrator and type the following
 <hr>
 ## Linux
 Open your terminal with <code> Ctrl + Alt + T </code> and then
-<code> sudo pip install pytron </code>
+<code> sudo pip install pyelectron </code>
 
 # Docs
 Pytron was mainly built in order to serve html5 file with a simple pyqt shell that acts like a desktop application
 ```python
 import os
-import pytron as pt
+import pyelectron as pt
 
 # setting the title via predefined variable 
 pt.TITLE = 'App'
